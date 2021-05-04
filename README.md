@@ -20,7 +20,7 @@
 
 - Owner of DisListing (Coming Soon)
 
-- Owner of WidgetStyle: [widgetstyle](https://www.widgetstyle.xyz)
+- Owner of WidgetStyle: [widgetstyle](https://widgetstyle.xyz)
 
 - Developer for DiscordHub
 
