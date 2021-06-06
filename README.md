@@ -12,9 +12,7 @@
 
 <h1 align="center">Current Projects: 🤔</h1>
 
-- Founder of BotHouseList: (😉 Coming back soon!)
-
-- Founder of DisDevelopment: [Click Here](https://discord.gg/ABkPPztHdE)
+- Founder of BotHouseList: Coming back soon!)
 
 - Head Developer/Founder of: MemeBot & RadioBot
 
@@ -31,8 +29,6 @@
 - Follow My Personal Account on Twitter: [Connor200024](https://twitter.com/Connor200024)
 
 - Follow DisDevelopment on Twitter: [DisDevelopment](https://twitter.com/DisDevelopmentt)
-
-- Send Me An Email: **Connor200024@gmail.com**.
 
 - Follow My Instagram: [Connor200024](https://www.instagram.com/connor_200024/)
 <hr>
