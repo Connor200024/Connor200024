@@ -22,6 +22,8 @@
 
 - Owner of Dscjobs.org: [Dscjobs](https://dscjobs.org/)
 
+- Owner of ReviewBots: [ReviewBots](https://reviewbots.xyz/)
+
 <hr>
 
 <h1 align="center">Social Media Links: 🔗</h1>
