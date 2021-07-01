@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Connor200024&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/>
   </a>
   <a href="https://discord.com/users/324646179134636043">
-    <img src="https://img.shields.io/badge/Connor200024%230001-%237289da?logo=discord&style=flat-square" alt="Connor200024#0001"/>
+    <img src="https://img.shields.io/badge/Connor200024%231305-%237289da?logo=discord&style=flat-square" alt="Connor200024#0001"/>
   </a>
 </p>
 
