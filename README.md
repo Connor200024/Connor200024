@@ -12,11 +12,15 @@
 
 <h1 align="center">Current Projects: 🤔</h1>
 
-- Founder of BotHouseList: Coming back soon!)
+- Founder of BotHouseList: (Coming back soon!)
 
 - Head Developer/Founder of: MemeBot & RadioBot
 
 - Developer for EasterBot & ChristmasCountdown
+
+- Co-Owner of ParadiseBotList: [BotList](https://www.paradisebots.net/)
+
+- Head Developer for InfinityBotList: [CoolBotList](https://infinitybotlist.com/)
 
 - Owner of WidgetStyle: [widgetstyle](https://www.widget.style)
 
