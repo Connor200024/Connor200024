@@ -28,6 +28,8 @@
 
 - Owner of ReviewBots: [ReviewBots](https://reviewbots.xyz/)
 
+- Owner of TropcialBotList: 👀
+
 <hr>
 
 <h1 align="center">Social Media Links: 🔗</h1>
