@@ -28,6 +28,8 @@
 
 - Owner of ReviewBots: [ReviewBots](https://reviewbots.xyz/)
 
+- Owner of DscReviews: (Coming soon)
+
 - Owner of TropcialBotList: 👀
 
 <hr>
