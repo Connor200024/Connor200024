@@ -25,7 +25,7 @@ ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
 # Contact 📝
 
-Email: connor@connorsdevelopment.xyz
+Email: connor@connor200024.xyz
 
 Discord: Connor200024#0612 (ID: 324646179134636043)
 
