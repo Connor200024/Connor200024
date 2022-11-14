@@ -13,9 +13,7 @@ ViperCord: [Viper](https://vipercord.com/)
 
 SeasonalDevelopment: [Seasonal](https://seasonaldevelopment.xyz/)
 
-DisTickets: [DisTickets](https://distickets.com/)
-
-KhariBot: [Khari](https://kharibot.xyz/)
+DisTickets: [DisTickets](https://distickets.xyz/)
 
 HalloweenBot: [Halloween](https://halloweenbot.xyz/)
 
