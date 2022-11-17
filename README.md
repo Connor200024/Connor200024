@@ -1,19 +1,33 @@
 # Welcome 👋
 
-🌱 Hey, I'm Connor also know as Connor200024.
-👀 I am from the United Kingdom.
-👨‍💻 I work in IT so cool right.
-🌐 Full-Stack Website Developer.
-🤖 Verified Bot Developer.
-🤳 Newbie App Developer.
+- 🌱  Hey, I'm Connor also know as Connor200024.
+- 👀 I am from the United Kingdom.
+- 👨‍💻 I work in IT so cool right.
+- 🌐 Full-Stack Website Developer.
+- 🤖 Verified Bot Developer.
+- 🤳 Newbie App Developer.
 
-# Projects 👀
+# Discord:
+
+Chillout Hangout: [Chillout](https://discord.gg/EKS5xDuyDG)
+
+# Websites 👀
 
 ViperCord: [Viper](https://vipercord.com/)
 
-SeasonalDevelopment: [Seasonal](https://seasonaldevelopment.xyz/)
-
 DisTickets: [DisTickets](https://distickets.xyz/)
+
+DscReviews: [DscReviews](https://dscreviews.xyz/)
+
+TweeterBot: [Tweeter](https://tweeterbot.xyz/)
+
+DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
+
+ReviewBots: [Review](https://reviewbots.xyz/)
+
+# Bots 🤖
+
+MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
 
 HalloweenBot: [Halloween](https://halloweenbot.xyz/)
 
@@ -25,7 +39,7 @@ ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
 Email: connor@connor200024.xyz
 
-Discord: Connor200024#0612 (ID: 324646179134636043)
+Discord: Connor200024#0612
 
 Twitter: @Connor200024
 
