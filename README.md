@@ -9,7 +9,7 @@
 
 # Discord:
 
-Chillout Hangout: [Chillout](https://discord.gg/EKS5xDuyDG)
+Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
 
 # Websites 👀
 
