@@ -6,6 +6,7 @@
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
 - 🤳 Newbie App Developer.
+- 🥰 Taken by the best.
 
 # Discord:
 
