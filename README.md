@@ -14,7 +14,7 @@ Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
 
 # Websites 👀
 
-ViperCord: [Viper](https://vipercord.com/)
+ViperBotList: [Viper](https://viperbotlist.com/)
 
 DisTickets: [DisTickets](https://distickets.xyz/)
 
