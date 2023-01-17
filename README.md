@@ -8,7 +8,7 @@
 - 🤳 App Developer.
 
 
-# Discord:
+# Discord: 🚨
 - Development Lounge: (Coming Soon)
 - Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
 
