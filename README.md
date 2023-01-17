@@ -9,8 +9,8 @@
 
 
 # Discord:
-Development Lounge: (Coming Soon)
-Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
+- Development Lounge: (Coming Soon)
+- Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
 
 # Websites 👀
 
