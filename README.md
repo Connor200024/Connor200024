@@ -5,11 +5,11 @@
 - 👨‍💻 I work in IT so cool right.
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
-- 🤳 Newbie App Developer.
+- 🤳 App Developer.
 
 
 # Discord:
-
+Development Lounge: (Coming Soon)
 Moonlight 🌙: [Moonlight](https://discord.gg/EKS5xDuyDG)
 
 # Websites 👀
@@ -36,14 +36,30 @@ EasterBot: [Easter](https://discord.com/oauth2/authorize?client_id=8105684859052
 
 ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
+
+# Coding Languages 💻
+
+- Javascript
+- Node.js
+- PHP & PHP Laravel
+- HTML 5
+- CSS3
+- C# & C++
+- Typescript
+- EJS (Embed Javascript)
+- Python
+- Java
+- PUG
+
 # Contact 📝
 
 Email: connor@connor200024.xyz
 
-Discord: Connor200024#0612
+Discord: Connor200024#1805
 
 Twitter: @Connor200024
 
 # Other Info 🤔
-
+I go by He/Him 
 I work full time. I am a gamer. 😎
+Taken ❤️
