@@ -60,6 +60,7 @@ Discord: Connor200024#1805
 Twitter: @Connor200024
 
 # Other Info 🤔
-I go by He/Him 
-I work full time. I am a gamer. 😎
-Taken ❤️
+- Taken ❤️
+- He/Him
+- Massive Nerd
+- Massive Gamer
