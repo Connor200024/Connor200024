@@ -60,7 +60,7 @@ Discord: Connor200024#1805
 Twitter: @Connor200024
 
 # Other Info 🤔
-- Single
+- Taken 04/02/2023
 - He/Him
 - Massive Nerd
 - Massive Gamer
