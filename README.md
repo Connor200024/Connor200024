@@ -26,6 +26,14 @@ DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
 
 ReviewBots: [Review](https://reviewbots.xyz/)
 
+JobCord: [JobCord](https://jobcord.co/)
+
+VitalList: [Vital](https://vitallist.xyz/)
+
+AntiRaid: [Anti](https://antiraid.xyz/)
+
+SeasonalHosting: [Hosting](https://seasonalhosting.xyz/)
+
 # Bots 🤖
 
 MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
@@ -53,7 +61,7 @@ ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
 # Contact 📝
 
-Email: connor@connor200024.xyz
+Email: connor@connor200024.xyz or connor@vipercord.com
 
 Discord: Connor200024#1805
 
