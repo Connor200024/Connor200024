@@ -2,7 +2,7 @@
 
 - 🌱  Hey, I'm Connor also know as Connor200024.
 - 👀 I am from the United Kingdom.
-- 👨‍💻 I work as a IT Technician.
+- 👨‍💻 Likes anything IT Tech.
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
 - 🤳 App Developer.
