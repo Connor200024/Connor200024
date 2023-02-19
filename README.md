@@ -16,6 +16,10 @@
 
 # Websites 👀
 
+VersatileMC: [Versatile](https://versatilemc.com/)
+
+LostPackDevelopment: [LostPack](https://lost-pack.xyz/)
+
 ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
 EasterBot: [Easter](https://easterbot.xyz/)
