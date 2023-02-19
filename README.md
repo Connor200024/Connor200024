@@ -1,4 +1,13 @@
-# Welcome to my profile 👋
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    Welcome to my GitHub Profile!
+</h3>
+
+# Information 🍿
 
 - 🌱  Hey, I'm Connor also know as Connor200024.
 - 👀 I am from the United Kingdom.
@@ -9,7 +18,7 @@
 - 💖 Taken 04/02/2023 - E<3♡
 
 
-# Discord 🚨
+# Discord Servers 🚨
 - Development Lounge: (Coming Soon)
 - Moonlight 🌙: [Moonlight](https://discord.gg/moonl)
 - Winter ☃️: (Coming Soon)
@@ -79,6 +88,9 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 - Python
 - Java
 - PUG
+- React
+- Next.js
+- VUE
 
 # Contact 📝
 
