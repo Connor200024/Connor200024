@@ -6,6 +6,7 @@
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
 - 🤳 App Developer.
+- 💖 Taken 04/02/2023 - E<3♡
 
 
 # Discord 🚨
@@ -90,7 +91,6 @@ Twitter: [Twitter](https://twitter.com/Connor200024)
 Instagram: [Insta](https://www.instagram.com/connor_200024/)
 
 # Other Info 🤔
-- Taken 04/02/2023 - E<3♡
 - He/Him
 - Massive Nerd
 - Massive Gamer
