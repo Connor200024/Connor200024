@@ -15,6 +15,7 @@
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
 - 🤳 App Developer.
+- 🥝 Works in IT.
 - 💖 Taken 04/02/2023 - E<3♡
 
 
