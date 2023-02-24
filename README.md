@@ -80,7 +80,8 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 
 - Javascript
 - Node.js
-- PHP & PHP Laravel
+- PHP 
+- PHP Laravel
 - HTML 5
 - CSS3
 - C# & C++
@@ -91,7 +92,13 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 - PUG
 - React
 - Next.js
-- VUE
+- Vue.js
+- Fastify
+- RedisDB
+- TailwindCSS
+- MongoDB
+- PostgresSQL
+- Booststrap
 
 # Contact 📝
 
