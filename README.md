@@ -16,8 +16,6 @@
 - 🤖 Verified Bot Developer.
 - 🤳 App Developer.
 - 🥝 Works in IT.
-- 💖 Taken 04/02/2023 - E<3♡
-
 
 # Discord Servers 🚨
 - Development Lounge: (Coming Soon)
@@ -114,3 +112,4 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
+- Taken 04/02/2023 - E<3♡
