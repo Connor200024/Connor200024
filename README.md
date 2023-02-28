@@ -112,4 +112,4 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
-- Taken 04/02/2023 - E<3♡
+- Taken
