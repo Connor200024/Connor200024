@@ -97,6 +97,7 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 - MongoDB
 - PostgresSQL
 - Booststrap
+- Coffeescript
 
 # Contact 📝
 
