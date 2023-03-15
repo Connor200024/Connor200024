@@ -17,11 +17,6 @@
 - 🤳 App Developer.
 - 🥝 Works in IT.
 
-# Discord Servers 🚨
-- Development Lounge: (Coming Soon)
-- Moonlight 🌙: [Moonlight](https://discord.gg/moonl)
-- Winter ☃️: (Coming Soon)
-- Sunset 🌅: (Coming Soon)
 
 # Websites 👀
 
