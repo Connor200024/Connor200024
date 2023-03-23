@@ -15,6 +15,7 @@
 - 🌐 Full-Stack Website Developer.
 - 🤖 Verified Bot Developer.
 - 🤳 App Developer.
+- 🎮 Newbie Games Developer.
 - 🥝 Works in IT.
 
 
