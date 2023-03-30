@@ -99,7 +99,7 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 
 Email: connor@connor200024.xyz or connor@vipercord.com
 
-Discord: Connor200024#1805
+Discord: Connor200024#0402
 
 Twitter: [Twitter](https://twitter.com/Connor200024)
 
@@ -109,4 +109,3 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
-- Taken
