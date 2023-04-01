@@ -17,6 +17,7 @@
 - 🤳 App Developer.
 - 🎮 Newbie Games Developer.
 - 🥝 Works in IT.
+- 💖 Happily Taken.
 
 
 # Websites 👀
