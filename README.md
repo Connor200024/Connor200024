@@ -18,11 +18,17 @@
 - 🎮 Games Developer.
 - 🥝 Works in IT.
 
+# Amazing People
+Thanks for everything you do! ❣️
+
+ItzMatt019 
+Harley200317
+Rizon
+Toxic Dev
+
 # Websites 👀
 
 VersatileMC: [Versatile](https://versatilemc.com/)
-
-LostPackDevelopment: [LostPack](https://lost-pack.xyz/)
 
 ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
@@ -30,13 +36,9 @@ EasterBot: [Easter](https://easterbot.xyz/)
 
 HalloweenBot: [Halloween](https://halloweenbot.xyz/)
 
-AikoBot: [Aiko](https://aikobot.xyz/)
-
 ViperBotList: [ViperBots](https://viperbotlist.com/)
 
 DisTickets: [DisTickets](https://distickets.xyz/)
-
-DscReviews: [DscReviews](https://dscreviews.xyz/)
 
 TweeterBot: [Tweeter](https://tweeterbot.xyz/)
 
@@ -45,8 +47,6 @@ DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
 ReviewBots: [Review](https://reviewbots.xyz/)
 
 JobCord: [JobCord](https://jobcord.co/)
-
-VitalList: [Vital](https://vitallist.xyz/)
 
 ViperCord LTD: [Viper](https://vipercord.com/)
 
