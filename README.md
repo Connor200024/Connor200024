@@ -21,10 +21,11 @@
 # Amazing People
 Thanks for everything you do! ❣️
 
-ItzMatt019 
-Harley200317
-Rizon
-Toxic Dev
+- ItzMatt019 
+- Harley200317
+- Rizon
+- Toxic Dev
+- Ellie
 
 # Websites 👀
 
