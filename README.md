@@ -35,7 +35,7 @@ ChristmasBot: [Christmas](https://christmasbot.xyz/)
 
 EasterBot: [Easter](https://easterbot.xyz/)
 
-HalloweenBot: [Halloween](https://halloweenbot.xyz/)
+HalloweenBot: [Halloween](https://halloweenbot.com/)
 
 ViperBotList: [ViperBots](https://viperbotlist.com/)
 
@@ -99,7 +99,7 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 
 Email: connor@connor200024.xyz or connor@vipercord.com
 
-Discord: Connor200024#0001
+Discord: connor200024
 
 Twitter: [Twitter](https://twitter.com/Connor200024)
 
