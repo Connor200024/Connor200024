@@ -25,7 +25,7 @@ Thanks for everything you do! ❣️
 - Harley200317
 - Rizon
 - Toxic Dev
-- Ellie
+- My Partner in crime ❤️
 
 # Websites 👀
 
@@ -109,4 +109,4 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
-- Single
+- Back off lmao taken ;)
