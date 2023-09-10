@@ -37,29 +37,30 @@ EasterBot: [Easter](https://easterbot.xyz/)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-ViperBotList: [ViperBots](https://viperbotlist.com/)
-
-DisTickets: [DisTickets](https://distickets.xyz/)
-
-TweeterBot: [Tweeter](https://tweeterbot.xyz/)
+TicketyBot: [Tickety](https://ticketybot.xyz/)
 
 DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
 
-ReviewBots: [Review](https://reviewbots.xyz/)
+RadioStats: [Stats](https://radiostats.online/)
+
+
+# Website I am Developer For 😏
 
 JobCord: [JobCord](https://jobcord.co/)
 
-ViperCord LTD: [Viper](https://vipercord.com/)
+ReviewBots: [Review](https://reviewbots.xyz/)
 
-AntiRaid: [Anti](https://antiraid.xyz/)
+LinkCord: [Link](https://linkcord.bio/)
 
-SeasonalHosting: [Hosting](https://seasonalhosting.xyz/)
+CodeBin: [Code](https://codebin.live/)
+
+DevHub: [Dev](https://beta.devhub.life/)
+
+CordX: [Cord](https://beta.cordx.lol/)
 
 # Bots 🤖
 
-HikariBot: [Giveaway](https://discord.com/api/oauth2/authorize?client_id=1005858718157635634&permissions=149250493504&scope=applications.commands%20bot)
-
-DisTickets: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
+TicketyBot: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
 
 MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
 
