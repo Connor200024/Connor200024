@@ -25,19 +25,21 @@ Thanks for everything you do! ❣️
 - Harley200317
 - Rizon
 - Toxic Dev
+- Ducky
+- Julian
+- Justin
+- My Girlfriend 🥰
   
 
 # Websites 👀
 
-VersatileMC: [Versatile](https://versatilemc.com/)
+TropicaMC: [Tropica](https://tropicamc.com/)
 
-ChristmasBot: [Christmas](https://christmasbot.xyz/)
-
-EasterBot: [Easter](https://easterbot.xyz/)
+ChristmasBot: [Christmas](https://christmasbot.net)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-TicketyBot: [Tickety](https://ticketybot.xyz/)
+DisTickets: [Tickety](https://ticketybot.xyz/)
 
 DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
 
@@ -60,9 +62,7 @@ CordX: [Cord](https://beta.cordx.lol/)
 
 # Bots 🤖
 
-TicketyBot: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
-
-MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
+DisTickets: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
 
 HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636&permissions=2147863617&scope=bot%20applications.commands)
 
@@ -110,4 +110,4 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
-
+- Happily Taken 01/11/23
