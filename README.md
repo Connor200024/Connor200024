@@ -19,8 +19,11 @@
 - 🥝 Works in IT.
 
 # Amazing People
-Thanks for everything you do! ❣️
+Thanks for everything you do you amazing people. 💕
 
+- Micheal 
+- Karl 
+- Aaron
 - ItzMatt019 
 - Harley200317
 - Rizon
