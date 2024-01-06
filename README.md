@@ -28,7 +28,7 @@ Thanks for everything you do! ❣️
 - Ducky
 - Julian
 - Justin
-- Sym ❤
+- Sym 
   
 
 # Websites 👀
@@ -110,4 +110,3 @@ Instagram: [Insta](https://www.instagram.com/connor_200024/)
 - He/Him
 - Massive Nerd
 - Massive Gamer
-- Happily Taken 01/11/23
