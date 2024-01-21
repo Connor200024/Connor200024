@@ -36,17 +36,15 @@ Thanks for everything you do you amazing people. 💕
 
 # Websites 👀
 
-TropicaMC: [Tropica](https://tropicamc.com/)
+TropicaMC: [Tropica](https://tropicamc.net/)
 
 ChristmasBot: [Christmas](https://christmasbot.net)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-DisTickets: [Tickety](https://ticketybot.xyz/)
+DisTickets: [Tickety](https://distickets.xyz/)
 
 DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
-
-RadioStats: [Stats](https://radiostats.online/)
 
 
 # Website I am Developer For 😏
