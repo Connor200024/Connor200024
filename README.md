@@ -7,7 +7,7 @@
     Welcome to my GitHub Profile!
 </h3>
 
-# Information 🍿
+# Information: 🍿
 
 - 🌱  Hey, I'm Connor also know as Connor200024.
 - 👀 I am from the United Kingdom.
@@ -18,7 +18,14 @@
 - 🎮 Games Developer.
 - 🥝 Works in IT.
 
-# Amazing People
+# Project I work in: 🔨
+- Owner of EasterBot, HalloweenBot & ChristmasBot.
+- Owner of MemeBot, HikariBot, VoiceyPlus.
+- Leadership at Shuffle.
+- Network Manager/HR & Developer at NodeByte.Host.
+- Network Director at TropicaMC
+
+# Amazing Friends:
 Thanks for everything you do you amazing people. 💕
 
 - Micheal 
@@ -34,7 +41,7 @@ Thanks for everything you do you amazing people. 💕
 - Sym 
   
 
-# Websites 👀
+# Websites: 👀
 
 TropicaMC: [Tropica](https://tropicamc.net/)
 
@@ -46,8 +53,10 @@ DisTickets: [Tickety](https://distickets.xyz/)
 
 DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
 
+Shuffle: [Music](https://shufflebot.xyz/)
 
-# Website I am Developer For 😏
+
+# Other Projects I am Staff/Developer for: 😏
 
 JobCord: [JobCord](https://jobcord.co/)
 
@@ -59,9 +68,9 @@ CodeBin: [Code](https://codebin.live/)
 
 DevHub: [Dev](https://beta.devhub.life/)
 
-CordX: [Cord](https://beta.cordx.lol/)
+CordX: [Cord](https://cordx.lol/)
 
-# Bots 🤖
+# Bots: 🤖
 
 DisTickets: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
 
@@ -71,8 +80,14 @@ EasterBot: [Easter](https://discord.com/oauth2/authorize?client_id=8105684859052
 
 ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=791761831734804510&permissions=3492928&&scope=bot%20applications.commands)
 
+MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
 
-# Coding Languages 💻
+HikariBot: [Giveaway](https://discord.com/oauth2/authorize?client_id=1005858718157635634&permissions=689342629952&scope=applications.commands%20bot)
+
+Shuffle: [Shuffle](https://discord.com/api/oauth2/authorize?client_id=1059872016628465704&permissions=39722058893313&scope=bot%20applications.commands)
+
+
+# Coding Things I Know: 💻
 
 - Javascript
 - Node.js
@@ -96,12 +111,17 @@ ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=7917618
 - PostgresSQL
 - Booststrap
 - Coffeescript
+- LUA
 
-# Contact 📝
+# Contact: 📝
 
-Email: connor@connor200024.xyz or connor@vipercord.com
+Email: connor@connor200024.xyz
 
 Discord: connor200024
+
+Twitter: Connor200024
+
+Instagram: Connor_200024
 
 Twitter: [Twitter](https://twitter.com/Connor200024)
 
