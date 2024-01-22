@@ -124,11 +124,9 @@ Twitter: Connor200024
 
 Instagram: Connor_200024
 
-Twitter: [Twitter](https://twitter.com/Connor200024)
-
-Instagram: [Insta](https://www.instagram.com/connor_200024/)
 
 # Other Info 🤔
 - He/Him
 - Massive Nerd
 - Massive Gamer
+- Anime Weeb
