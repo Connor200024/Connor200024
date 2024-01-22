@@ -22,7 +22,7 @@
 - Owner of EasterBot, HalloweenBot & ChristmasBot.
 - Owner of MemeBot, HikariBot, VoiceyPlus.
 - Leadership at Shuffle.
-- Network Manager/HR & Developer at NodeByte.Host.
+- Founder/Network Manager at NodeByte.Host.
 - Network Director at TropicaMC
 
 # Amazing Friends:
@@ -38,7 +38,8 @@ Thanks for everything you do you amazing people. 💕
 - Ducky
 - Julian
 - Justin
-- Sym 
+- Sym
+- Emma
   
 
 # Websites: 👀
