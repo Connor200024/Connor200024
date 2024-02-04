@@ -19,11 +19,11 @@
 - 🥝 Works in IT.
 
 # Project I work in: 🔨
-- Owner of EasterBot, HalloweenBot & ChristmasBot.
-- Owner of MemeBot, HikariBot, VoiceyPlus.
+- Owner of DscInflux, EasterBot, HalloweenBot & ChristmasBot, MemeBot, HikariBot, VoiceyPlus, ReviewBots, DisWidgets, DisTickets & TropicalBotList.
 - Leadership at Shuffle.
-- Founder/Network Manager at NodeByte.Host.
-- Network Director at TropicaMC
+- Founder/Network Director at NodeByte.Host.
+- Developer for RadioStats.Online, Quantum Wave, CordX, LinkCord, JobCord, CodeBin & DevHub & ShadeBot
+- Website Moderator & Support at InfinityBotList.
 
 # Amazing Friends:
 Thanks for everything you do you amazing people. 💕
@@ -44,20 +44,19 @@ Thanks for everything you do you amazing people. 💕
 
 # Websites: 👀
 
-TropicaMC: [Tropica](https://tropicamc.net/)
+My Site: [My Site](https://connor200024.xyz/)
 
 ChristmasBot: [Christmas](https://christmasbot.net)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-DisTickets: [Tickety](https://distickets.xyz/)
+EasterBot: [Easter](https://easterbot.xyz/)
 
-DisWidgets: [DisWidgets](https://beta.diswidgets.org/)
+DisTickets: [DisTickets](https://distickets.xyz/)
 
-Shuffle: [Music](https://shufflebot.xyz/)
+DisWidgets: [DisWidgets](https://diswidgets.xyz/)
 
-
-# Other Projects I am Staff/Developer for: 😏
+Shuffle: [Shuffle](https://shufflebot.xyz/)
 
 JobCord: [JobCord](https://jobcord.co/)
 
