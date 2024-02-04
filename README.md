@@ -40,6 +40,7 @@ Thanks for everything you do you amazing people. 💕
 - Justin
 - Sym
 - Emma
+- Chelsea
   
 
 # Websites: 👀
