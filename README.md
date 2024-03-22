@@ -21,7 +21,7 @@
 # Project I work in: 🔨
 - Owner of DscInflux, EasterBot, HalloweenBot & ChristmasBot, MemeBot, HikariBot, VoiceyPlus, ReviewBots, DisWidgets, DisTickets & TropicalBotList.
 - Leadership at Shuffle.
-- Founder/Network Director at NodeByte.Host.
+- The Networking Person @ NodeByte :)
 - Developer for RadioStats.Online, Quantum Wave, CordX, LinkCord, JobCord, CodeBin & DevHub & ShadeBot
 - Website Moderator & Support at InfinityBotList.
 
