@@ -28,19 +28,19 @@
 # Amazing Friends:
 Thanks for everything you do you amazing people. 💕
 
-- Micheal 
-- Karl 
-- Aaron
+
 - ItzMatt019 
 - Harley200317
 - Rizon
+- Ollie
+- D24
+- Archie
 - Toxic Dev
+- CSJ90
 - Ducky
-- Julian
+- Zyztem
 - Justin
 - Sym
-- Emma
-- Chelsea
   
 
 # Websites: 👀
