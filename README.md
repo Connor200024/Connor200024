@@ -17,18 +17,23 @@
 - 🤳 App Developer.
 - 🎮 Games Developer.
 - 🥝 Works in IT.
+- 😏 Cyber Sys Admin.
+- 😎 Pentester.
+- 🐉 Ethical Hacker
 
-# Project I work in: 🔨
-- Owner of DscInflux, EasterBot, HalloweenBot & ChristmasBot, MemeBot, HikariBot, VoiceyPlus, ReviewBots, DisWidgets, DisTickets & TropicalBotList.
+# Project: 🔨
+- Owner of DisTickets.
+- Owner of DscDevelopment.
+- Owner of DscInflux.
+- Co-Owner of DisWidgets.
 - Leadership at Shuffle.
-- The Networking Person @ NodeByte :)
-- Developer for RadioStats.Online, Quantum Wave, CordX, LinkCord, JobCord, CodeBin & DevHub & ShadeBot
-- Website Moderator & Support at InfinityBotList.
+- Chief Technology Officer at NodeByte.
+- Developer at JobCord, CordX, LinkCord, DevHub & CodeBin.
+- Human Resources at InfinityBots.
+- Staff at Hiroko & ToxicDevelopment.
 
 # Amazing Friends:
-Thanks for everything you do you amazing people. 💕
-
-
+Thanks for putting up with me for this long! 🤣😝
 - ItzMatt019 
 - Harley200317
 - Rizon
@@ -55,19 +60,17 @@ EasterBot: [Easter](https://easterbot.xyz/)
 
 DisTickets: [DisTickets](https://distickets.xyz/)
 
-DisWidgets: [DisWidgets](https://diswidgets.xyz/)
+DisWidgets: [DisWidgets](https://diswidgets.org/)
 
 Shuffle: [Shuffle](https://shufflebot.xyz/)
 
 JobCord: [JobCord](https://jobcord.co/)
 
-ReviewBots: [Review](https://reviewbots.xyz/)
-
-LinkCord: [Link](https://linkcord.bio/)
+LinkCord: [Link](https://linkcord.lol/)
 
 CodeBin: [Code](https://codebin.live/)
 
-DevHub: [Dev](https://beta.devhub.life/)
+DevHub: [Dev](https://devhub.life/)
 
 CordX: [Cord](https://cordx.lol/)
 
@@ -121,6 +124,8 @@ Email: connor@connor200024.xyz
 Discord: connor200024
 
 Twitter: Connor200024
+
+Instagram: Connor_200024
 
 Instagram: Connor_200024
 
