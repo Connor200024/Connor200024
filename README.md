@@ -20,6 +20,7 @@
 - 😏 Cyber Sys Admin.
 - 😎 Pentester.
 - 🐉 Ethical Hacker.
+- 😡 Scambaiter.
 
 # Project: 🔨
 - Owner of DisTickets.
