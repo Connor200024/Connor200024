@@ -19,7 +19,7 @@
 - 🥝 Works in IT.
 - 😏 Cyber Sys Admin.
 - 😎 Pentester.
-- 🐉 Ethical Hacker
+- 🐉 Ethical Hacker.
 
 # Project: 🔨
 - Owner of DisTickets.
