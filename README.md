@@ -25,7 +25,9 @@
 
 # Contact: 📝
 
-Email: connor@connor200024.xyz
+Personal Email: connor@connor200024.xyz
+
+Company: connor@nodebyte.host
 
 Discord: connor200024
 
@@ -40,8 +42,8 @@ NodeByte Company: +44 7375067410
 
 # Discord Servers 🚀
 
-[NodeByte](https://discord.gg/2TgjJzrxm4)
-[Moonlight SMP](Coming Soon)
+- [NodeByte](https://discord.gg/2TgjJzrxm4)
+- [Moonlight SMP](Coming Soon)
 
 # Project: 🔨
 - Owner of Arcanium.
