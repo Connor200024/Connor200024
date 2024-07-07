@@ -40,21 +40,23 @@ Development Number: +44 7852141509
 NodeByte Company: +44 7375067410
 
 
-# Discord Servers 🚀
+# Discord Servers: 🚀
 
 - [NodeByte](https://discord.gg/2TgjJzrxm4)
 - [Moonlight SMP](Coming Soon)
 
-# Project: 🔨
-- Owner of Arcanium.
-- Owner of DscDevelopment.
-- founder of DscInflux.
-- Co-Owner of DisWidgets.
-- Leadership at Shuffle.
-- Chief Executive Officer at NodeByte.host.
-- Developer at JobCord, CordX, LinkCord, DevHub & CodeBin.
-- Human Resources at InfinityBots.
-- Staff at Hiroko & ToxicDevelopment.
+# Projects: 🔨
+- Owner of Arcanium
+- Owner of DscDevelopment
+- founder of DscInflux
+- Co-Owner of DisWidgets
+- Leadership at Shuffle
+- Chief Executive Officer at NodeByte.host
+- Developer at JobCord, CordX, LinkCord, DevHub & CodeBin
+- Human Resources at InfinityBots
+- Staff at Hiroko & ToxicDevelopment
+- Developer at TropicalBotList
+- Developer at Moonlight SMP
 
 # Amazing Friends:
 Some amazing people who have always been with me.
