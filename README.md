@@ -9,7 +9,7 @@
 
 # Information: 🍿
 
-- 🌱  Hey, I'm Connor also know as Connor200024.
+- 🌱 Hey, I'm Connor also know as Connor200024.
 - 👀 I am from the United Kingdom.
 - 👨‍💻 Likes anything IT Tech.
 - 🌐 Full-Stack Website Developer.
@@ -23,12 +23,12 @@
 - 😡 Scambaiter.
 
 # Project: 🔨
-- Owner of DisTickets.
+- Owner of Arcanium.
 - Owner of DscDevelopment.
-- Owner of DscInflux.
+- founder of DscInflux.
 - Co-Owner of DisWidgets.
 - Leadership at Shuffle.
-- Chief Technology Officer at NodeByte.
+- Chief Executive Officer at NodeByte.host.
 - Developer at JobCord, CordX, LinkCord, DevHub & CodeBin.
 - Human Resources at InfinityBots.
 - Staff at Hiroko & ToxicDevelopment.
@@ -51,6 +51,8 @@ Thanks for putting up with me for this long! 🤣😝
 
 # Websites: 👀
 
+NodeByte Hosting: [Host with us](https://nodebyte.host)
+
 My Site: [My Site](https://connor200024.xyz/)
 
 ChristmasBot: [Christmas](https://christmasbot.net)
@@ -59,11 +61,11 @@ HalloweenBot: [Halloween](https://halloweenbot.com/)
 
 EasterBot: [Easter](https://easterbot.xyz/)
 
-DisTickets: [DisTickets](https://distickets.xyz/)
+Arcanium: [Arcanium](https://arcaniumbot.xyz/)
 
 DisWidgets: [DisWidgets](https://diswidgets.org/)
 
-Shuffle: [Shuffle](https://shufflebot.xyz/)
+Shuffle: [Shuffle](https://shufflebot.lol/)
 
 JobCord: [JobCord](https://jobcord.co/)
 
@@ -77,7 +79,7 @@ CordX: [Cord](https://cordx.lol/)
 
 # Bots: 🤖
 
-DisTickets: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
+Arcanium: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
 
 HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636&permissions=2147863617&scope=bot%20applications.commands)
 
@@ -92,7 +94,7 @@ HikariBot: [Giveaway](https://discord.com/oauth2/authorize?client_id=10058587181
 Shuffle: [Shuffle](https://discord.com/api/oauth2/authorize?client_id=1059872016628465704&permissions=39722058893313&scope=bot%20applications.commands)
 
 
-# Coding Things I Know: 💻
+# Things I Know: 💻
 
 - Javascript
 - Node.js
@@ -128,7 +130,9 @@ Twitter: Connor200024
 
 Instagram: Connor_200024
 
-Instagram: Connor_200024
+Development Number: +44 7852141509
+
+NodeByte Company: +44 7375067410
 
 
 # Other Info 🤔
