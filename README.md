@@ -9,18 +9,39 @@
 
 # Information: 🍿
 
-- 🌱 Hey, I'm Connor also know as Connor200024.
-- 👀 I am from the United Kingdom.
-- 👨‍💻 Likes anything IT Tech.
-- 🌐 Full-Stack Website Developer.
-- 🤖 Verified Bot Developer.
-- 🤳 App Developer.
-- 🎮 Games Developer.
-- 🥝 Works in IT.
-- 😏 Cyber Sys Admin.
-- 😎 Pentester.
-- 🐉 Ethical Hacker.
-- 😡 Scambaiter.
+- 🌱 Hey, I'm Connor also know as Connor200024
+- 👀 I am from the United Kingdom
+- 👨‍💻 Likes anything IT Tech
+- 🌐 Full-Stack Website Developer
+- 🤖 Verified Bot Developer
+- 🤳 App Developer
+- 🎮 Games Developer
+- 🥝 Works in IT
+- 😏 Cyber Sys Admin
+- 😎 Pentester
+- 🐉 Ethical Hacker
+- 😡 Scambaiter
+- 🚀 Massive Gamer
+
+# Contact: 📝
+
+Email: connor@connor200024.xyz
+
+Discord: connor200024
+
+Twitter: Connor200024
+
+Instagram: Connor_200024
+
+Development Number: +44 7852141509
+
+NodeByte Company: +44 7375067410
+
+
+# Discord Servers 🚀
+
+[NodeByte](https://discord.gg/2TgjJzrxm4)
+[Moonlight SMP](Coming Soon)
 
 # Project: 🔨
 - Owner of Arcanium.
@@ -34,9 +55,10 @@
 - Staff at Hiroko & ToxicDevelopment.
 
 # Amazing Friends:
-Thanks for putting up with me for this long! 🤣😝
+Some amazing people who have always been with me.
 - ItzMatt019 
 - Harley200317
+- Dylan C
 - Rizon
 - Ollie
 - D24
@@ -47,6 +69,9 @@ Thanks for putting up with me for this long! 🤣😝
 - Zyztem
 - Justin
 - Sym
+- Michael
+- Aaron
+- Karl
   
 
 # Websites: 👀
@@ -120,23 +145,4 @@ Shuffle: [Shuffle](https://discord.com/api/oauth2/authorize?client_id=1059872016
 - Coffeescript
 - LUA
 
-# Contact: 📝
-
-Email: connor@connor200024.xyz
-
-Discord: connor200024
-
-Twitter: Connor200024
-
-Instagram: Connor_200024
-
-Development Number: +44 7852141509
-
-NodeByte Company: +44 7375067410
-
-
-# Other Info 🤔
-- He/Him
-- Massive Nerd
-- Massive Gamer
-- Anime Weeb
+Thanks for reading! ❤
