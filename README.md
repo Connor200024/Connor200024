@@ -29,7 +29,9 @@ Personal Email: connor@connor200024.xyz
 
 Company: connor@nodebyte.host
 
-Discord: connor200024
+Company Discord: connornodebyte
+
+Personal Discord: connor200024
 
 Twitter: Connor200024
 
