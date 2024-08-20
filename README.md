@@ -27,7 +27,7 @@
 
 Personal Email: connor@connor200024.xyz
 
-Company: connor@nodebyte.host
+Company: connor@nodebyte.co.uk
 
 Company Discord: connornodebyte
 
@@ -53,7 +53,7 @@ NodeByte Company: +44 7375067410
 - founder of DscInflux
 - Co-Owner of DisWidgets
 - Leadership at Shuffle
-- Chief Executive Officer at NodeByte.host
+- Chief Executive Officer for NodeByte LTD & NodeByte Hosting
 - Developer at JobCord, CordX, LinkCord, DevHub & CodeBin
 - Human Resources at InfinityBots
 - Staff at Hiroko & ToxicDevelopment
@@ -90,8 +90,6 @@ ChristmasBot: [Christmas](https://christmasbot.net)
 
 HalloweenBot: [Halloween](https://halloweenbot.com/)
 
-EasterBot: [Easter](https://easterbot.xyz/)
-
 Arcanium: [Arcanium](https://arcaniumbot.xyz/)
 
 DisWidgets: [DisWidgets](https://diswidgets.org/)
@@ -114,13 +112,7 @@ Arcanium: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016
 
 HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636&permissions=2147863617&scope=bot%20applications.commands)
 
-EasterBot: [Easter](https://discord.com/oauth2/authorize?client_id=810568485905236018&permissions=379968&scope=bot%20applications.commands)
-
 ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=791761831734804510&permissions=3492928&&scope=bot%20applications.commands)
-
-MemeBot: [Meme](https://discord.com/oauth2/authorize?client_id=991784302553612329&permissions=139623517248&&scope=bot%20applications.commands)
-
-HikariBot: [Giveaway](https://discord.com/oauth2/authorize?client_id=1005858718157635634&permissions=689342629952&scope=applications.commands%20bot)
 
 Shuffle: [Shuffle](https://discord.com/api/oauth2/authorize?client_id=1059872016628465704&permissions=39722058893313&scope=bot%20applications.commands)
 
