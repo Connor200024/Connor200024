@@ -74,6 +74,8 @@ Some amazing people who have always been with me.
 - Michael
 - Aaron
 - Karl
+- Holly
+- Camiko
   
 
 # Websites: 👀
