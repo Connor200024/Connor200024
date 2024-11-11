@@ -37,10 +37,6 @@ Twitter: Connor200024
 
 Instagram: Connor_200024
 
-Development Number: +44 7852141509
-
-NodeByte Company: +44 7375067410
-
 
 # Discord Servers: 🚀
 
