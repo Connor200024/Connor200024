@@ -16,7 +16,7 @@
 - 🤖 Verified Bot Developer
 - 🤳 App Developer
 - 🎮 Games Developer
-- 🥝 Works in IT
+- 🥝 Works as a IT Technican Level 4
 - 😏 Cyber Sys Admin
 - 😎 Pentester
 - 🐉 Ethical Hacker
@@ -25,7 +25,7 @@
 
 # Contact: 📝
 
-Personal Email: connor@connor200024.xyz
+Development Email: connor@connorsdevelopment.xyz
 
 Company: connor@nodebyte.co.uk
 
