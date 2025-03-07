@@ -41,42 +41,16 @@ Instagram: Connor_200024
 # Discord Servers: 🚀
 
 - [NodeByte](https://discord.gg/2TgjJzrxm4)
-- [Moonlight SMP](Coming Soon)
 
 # Projects: 🔨
 - Owner of Arcanium
-- Owner of DscDevelopment
-- founder of DscInflux
+- Founder of DscInflux
 - Co-Owner of DisWidgets
 - Leadership at Shuffle
-- Chief Executive Officer for NodeByte LTD & NodeByte Hosting
+- Chief Executive Officer at NodeByte LTD 
 - Developer at JobCord, CordX, LinkCord, DevHub & CodeBin
 - Human Resources at InfinityBots
-- Staff at Hiroko & ToxicDevelopment
-- Developer at TropicalBotList
-- Developer at Moonlight SMP
 
-# Amazing Friends:
-Some amazing people who have always been with me.
-- ItzMatt019 
-- Harley200317
-- Dylan C
-- Rizon
-- Ollie
-- D24
-- Archie
-- Toxic Dev
-- CSJ90
-- Ducky
-- Zyztem
-- Justin
-- Sym
-- Michael
-- Aaron
-- Karl
-- Holly
-- Camiko
-  
 
 # Websites: 👀
 
