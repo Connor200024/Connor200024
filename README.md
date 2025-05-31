@@ -46,7 +46,7 @@ Instagram: Connor_200024
 
 # Projects: 🔨
 - Owner of Arcanium
-- - Co-Owner of DisWidgets
+- Co-Owner of DisWidgets
 - Leadership at Shuffle
 - Chief Executive Officer at NodeByte LTD 
 - Developer at JobCord, CordX, LinkCord, DevHub & CodeBi
