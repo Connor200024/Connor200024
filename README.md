@@ -13,10 +13,10 @@
 - 👀 I am from the United Kingdom
 - 👨‍💻 Likes anything IT Tech
 - 🌐 Full-Stack Website Developer
-- 🤖 Verified Bot Developer
+- 🤖 Verified Discord Bot Developer
 - 🤳 App Developer
 - 🎮 Games Developer
-- 🥝 Works as a IT Technican Level 4
+- 🥝 IT Technican Level 4
 - 😏 Cyber Sys Admin
 - 😎 Pentester
 - 🐉 Ethical Hacker
@@ -28,6 +28,8 @@
 Development Email: connor@connorsdevelopment.xyz
 
 Company: connor@nodebyte.co.uk
+
+Phone: +44 7375 067410
 
 Company Discord: connornodebyte
 
@@ -44,19 +46,15 @@ Instagram: Connor_200024
 
 # Projects: 🔨
 - Owner of Arcanium
-- Founder of DscInflux
-- Co-Owner of DisWidgets
+- - Co-Owner of DisWidgets
 - Leadership at Shuffle
 - Chief Executive Officer at NodeByte LTD 
-- Developer at JobCord, CordX, LinkCord, DevHub & CodeBin
-- Human Resources at InfinityBots
+- Developer at JobCord, CordX, LinkCord, DevHub & CodeBi
 
 
 # Websites: 👀
 
 NodeByte Hosting: [Host with us](https://nodebyte.host)
-
-My Site: [My Site](https://connor200024.xyz/)
 
 ChristmasBot: [Christmas](https://christmasbot.net)
 
@@ -68,15 +66,11 @@ DisWidgets: [DisWidgets](https://diswidgets.org/)
 
 Shuffle: [Shuffle](https://shufflebot.lol/)
 
-JobCord: [JobCord](https://jobcord.co/)
+Nexium: [Nexium](https://nexisite.xyz/)
 
 LinkCord: [Link](https://linkcord.lol/)
 
-CodeBin: [Code](https://codebin.live/)
-
-DevHub: [Dev](https://devhub.life/)
-
-CordX: [Cord](https://cordx.lol/)
+CordX: [Cord](https://cordx.ca)
 
 # Bots: 🤖
 
