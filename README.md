@@ -25,7 +25,7 @@
 
 # Contact: 📝
 
-Development Email: connor@connorsdevelopment.xyz
+Development Email: connor.h@connorsdevelopment.xyz
 
 Company: connor@nodebyte.co.uk
 
@@ -43,34 +43,21 @@ Instagram: Connor_200024
 # Discord Servers: 🚀
 
 - [NodeByte](https://discord.gg/2TgjJzrxm4)
+- [Echo's Chambers](https://discord.gg/BgwjWKNxdU)
+- [Shuffle Community](https://discord.gg/4MswaF2VfY)
+- [Halloween Support](https://discord.gg/4bxtftVuzn)
+- [Christmas Support](https://discord.gg/NdMDBn4qvR)
+- [Arcanium Support](https://discord.gg/zwkBAQhQ8b)
 
 # Projects: 🔨
-- Owner of Arcanium
-- Co-Owner of DisWidgets
-- Leadership at Shuffle
-- Chief Executive Officer at NodeByte LTD 
-- Developer at JobCord, CordX, LinkCord, DevHub & CodeBi
-
-
-# Websites: 👀
-
-NodeByte Hosting: [Host with us](https://nodebyte.host)
-
-ChristmasBot: [Christmas](https://christmasbot.net)
-
-HalloweenBot: [Halloween](https://halloweenbot.com/)
-
-Arcanium: [Arcanium](https://arcaniumbot.xyz/)
-
-DisWidgets: [DisWidgets](https://diswidgets.org/)
-
-Shuffle: [Shuffle](https://shufflebot.lol/)
-
-Nexium: [Nexium](https://nexisite.xyz/)
-
-LinkCord: [Link](https://linkcord.lol/)
-
-CordX: [Cord](https://cordx.ca)
+- Owner @ [HalloweenBot](https://halloweenbot.com/)
+- Owner @ [ChristmasBot](https://chrismasbot.net/)
+- Lead Developer @ [RunicRealms](https://runicrealms.xyz/)
+- Manager @ [Arcanium](https://arcaniumbot.xyz/)
+- Manager @ [DisWidgets](https://diswidgets.org/)
+- Director @ [Shuffle](https://shufflebot.lol)
+- Chief Executive Officer @ [NodeByte LTD](https://nodebyte.co.uk/) & [NodeByte Hosting](https://nodebyte.host/)
+- Chief Executive Officer @ [ViperDevelopment](https://viperdevelopment.com)
 
 # Bots: 🤖
 
