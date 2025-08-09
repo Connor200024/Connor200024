@@ -31,9 +31,7 @@ Company: connor@nodebyte.co.uk
 
 Phone: +44 7375 067410
 
-Company Discord: connornodebyte
-
-Personal Discord: connor200024
+Discord: connor200024
 
 Twitter: Connor200024
 
