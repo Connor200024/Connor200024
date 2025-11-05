@@ -37,19 +37,24 @@ Twitter: Connor200024
 
 Instagram: Connor_200024
 
+# Friends: 💖
+
+- Rizon
+- Harley
+- Pixel
+- Matt
+- Chris
 
 # Discord Servers: 🚀
 
 - [NodeByte](https://discord.gg/2TgjJzrxm4)
 - [Echo's Chambers](https://discord.gg/BgwjWKNxdU)
 - [Shuffle Community](https://discord.gg/4MswaF2VfY)
-- [Halloween Support](https://discord.gg/4bxtftVuzn)
-- [Christmas Support](https://discord.gg/NdMDBn4qvR)
+- [SeasonalBots Support](https://discord.gg/4bxtftVuzn)
 - [Arcanium Support](https://discord.gg/zwkBAQhQ8b)
 
 # Projects: 🔨
-- Owner @ [HalloweenBot](https://halloweenbot.com/)
-- Owner @ [ChristmasBot](https://chrismasbot.net/)
+- Owner @ SeasonalBots
 - Lead Developer @ [RunicRealms](https://runicrealms.xyz/)
 - Manager @ [Arcanium](https://arcaniumbot.xyz/)
 - Manager @ [DisWidgets](https://diswidgets.org/)
