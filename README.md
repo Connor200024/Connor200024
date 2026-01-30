@@ -23,20 +23,6 @@
 - 😡 Scambaiter
 - 🚀 Massive Gamer
 
-# Contact: 📝
-
-Development Email: connor.h@connorsdevelopment.xyz
-
-Company: connor@nodebyte.co.uk
-
-Phone: +44 7375 067410
-
-Discord: connor200024
-
-Twitter: Connor200024
-
-Instagram: Connor_200024
-
 # Friends: 💖
 
 - Rizon
@@ -44,34 +30,6 @@ Instagram: Connor_200024
 - Pixel
 - Matt
 - Chris
-
-# Discord Servers: 🚀
-
-- [NodeByte](https://discord.gg/2TgjJzrxm4)
-- [Echo's Chambers](https://discord.gg/BgwjWKNxdU)
-- [Shuffle Community](https://discord.gg/4MswaF2VfY)
-- [SeasonalBots Support](https://discord.gg/4bxtftVuzn)
-- [Arcanium Support](https://discord.gg/zwkBAQhQ8b)
-
-# Projects: 🔨
-- Owner @ SeasonalBots
-- Lead Developer @ [RunicRealms](https://runicrealms.xyz/)
-- Manager @ [Arcanium](https://arcaniumbot.xyz/)
-- Manager @ [DisWidgets](https://diswidgets.org/)
-- Director @ [Shuffle](https://shufflebot.lol)
-- Chief Executive Officer @ [NodeByte LTD](https://nodebyte.co.uk/) & [NodeByte Hosting](https://nodebyte.host/)
-- Chief Executive Officer @ [ViperDevelopment](https://viperdevelopment.com)
-
-# Bots: 🤖
-
-Arcanium: [Tickets](https://discord.com/api/oauth2/authorize?client_id=993163016487063583&permissions=139586825296&scope=applications.commands%20bot)
-
-HalloweenBot: [Halloween](https://discord.com/oauth2/authorize?client_id=852564657674649636&permissions=2147863617&scope=bot%20applications.commands)
-
-ChristmasBot: [Christmas](https://discord.com/oauth2/authorize?client_id=791761831734804510&permissions=3492928&&scope=bot%20applications.commands)
-
-Shuffle: [Shuffle](https://discord.com/api/oauth2/authorize?client_id=1059872016628465704&permissions=39722058893313&scope=bot%20applications.commands)
-
 
 # Things I Know: 💻
 
