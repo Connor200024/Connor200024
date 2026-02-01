@@ -40,6 +40,9 @@
 - Pixel
 - Matt
 - Chris
+- Holly
+- Camiko
+- Cxntrol
 
 # Things I Know: 💻
 
