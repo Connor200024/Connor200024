@@ -23,6 +23,16 @@
 - 😡 Scambaiter
 - 🚀 Massive Gamer
 
+# Contact: 📝
+
+- Email: connor@connorsdevelopment.xyz or connor@nodebyte.co.uk
+
+- Phone: +44 7375 067410
+
+- Discord: connor200024
+
+- Twitter: Connor200024
+
 # Friends: 💖
 
 - Rizon
