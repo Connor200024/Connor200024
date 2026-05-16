@@ -38,7 +38,6 @@
 - Rizon
 - Harley
 - Pixel
-- Matt
 - Chris
 - Holly
 - Camiko
