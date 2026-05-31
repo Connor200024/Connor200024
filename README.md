@@ -33,6 +33,13 @@
 
 - Twitter: Connor200024
 
+- Insta: Connor_200024  
+
+# Websites: 🌐
+
+- Development Website: https://connorsdevelopment.xyz/
+- Protfolio Website: https://connor200024.xyz/
+
 # Friends: 💖
 
 - Rizon
@@ -42,6 +49,8 @@
 - Holly
 - Camiko
 - Cxntrol
+- PacketGhost
+- Matt
 
 # Things I Know: 💻
 
