@@ -42,6 +42,8 @@
 
 # Friends: 💖
 
+Thanks to my amazing people who deal with me! 😉
+
 - Rizon
 - Harley
 - Pixel
@@ -51,6 +53,8 @@
 - Cxntrol
 - PacketGhost
 - Matt
+- Tyler
+- Ari
 
 # Things I Know: 💻
 
