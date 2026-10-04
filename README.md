@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://connorsdevelopment.co.uk/"><img src="https://img.shields.io/badge/Website-connorsdevelopment.xyz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:hello@connorsdevelopment.co.uk"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://connorsdevelopment.co.uk/"><img src="https://img.shields.io/badge/Website-connorsdevelopment.co.uk-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:hello@connorsdevelopment.co.uk"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/Connor200024"><img src="https://img.shields.io/badge/Twitter-Connor200024-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/Connor_200024"><img src="https://img.shields.io/badge/Instagram-Connor__200024-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
